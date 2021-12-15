@@ -1,10 +1,8 @@
-//--------------------------------------------------------------------
-//
-//  Laboratory 12                                             Heap.h
-//
-//  Class declaration for the array implementation of the Heap ADataType
-//
-//--------------------------------------------------------------------
+/*
+
+
+
+*/
 
 #ifndef HEAP_H
 #define HEAP_H

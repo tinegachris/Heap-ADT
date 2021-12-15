@@ -1,6 +1,6 @@
 //--------------------------------------------------------------------
 //
-//  Laboratory 11, Programming Exercise 2                  heapsort.cs
+//
 //
 //  (Shell) heapSort() function
 //

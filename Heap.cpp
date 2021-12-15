@@ -1,17 +1,9 @@
-//--------------------------------------------------------------------
-//
-//  Laboratory 11                                          Heap.cpp
-//
-//  SOLUTION: Array implementation of the Heap ADT
-//
-//--------------------------------------------------------------------
+
 
 #ifndef HEAP_CPP
 #define HEAP_CPP
 
 #include "Heap.h"
-
-//#include <new>
 
 using namespace std;
 
